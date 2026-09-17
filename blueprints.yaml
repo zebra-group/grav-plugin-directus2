@@ -6,12 +6,12 @@ description: Using grav as frontend for a directus headless CMS
 icon: plug
 author:
   name: Sebastian Laube
-  email: sebastian.laube@mindbox.de
-homepage: https://github.com/mindbox/grav-plugin-directus2
+  email: sebastian.laube@zebra.de
+homepage: https://github.com/zebra-group/grav-plugin-directus2
 demo: http://demo.yoursite.com
 keywords: grav, plugin, directus, flex-objects
-bugs: https://github.com/mindbox/grav-plugin-directus2/issues
-docs: https://github.com/mindbox/grav-plugin-directus2/blob/develop/README.md
+bugs: https://github.com/zebra-group/grav-plugin-directus2/issues
+docs: https://github.com/zebra-group/grav-plugin-directus2/blob/develop/README.md
 license: MIT
 
 dependencies:
